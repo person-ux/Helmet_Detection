@@ -1,0 +1,9 @@
+Tensrflow- TensorFlow is an end-to-end open source platform for machine learning.
+Keras- libray used for deep learning to read diffrent datasets.
+imutils- A series of convenience functions to make basic image processing functions 
+such as translation, rotation, resizing.etc.
+numpy- Numpy is a general-purpose array-processing package and used for python numerics calculation
+opencv- is machin learning lib used for applications for face recognition 
+so you can start experimenting with face recognition right away.
+matplote- used Visualization with Python
+scipy- is used for mathematics solutions for imageprocessing.
